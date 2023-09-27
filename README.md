@@ -2,5 +2,4 @@
 <ul>
   <li>File handling</li>
   <li>OOP's</li>
-  <li>Adding On</li>
 </ul>

@@ -49,7 +49,6 @@
     }
     ?>
     
-    
 // FILE UPLOADS
 
     $_FILES['somename']['name']
